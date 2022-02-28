@@ -24,7 +24,7 @@ Additional requirements are listed further down for either rsynch module or SSH 
 Go to **Tasks > Rsync Tasks** and click **ADD**.
 The **Rsync Mode** field has two primary rsync modes: **Module** and **SSH**.
 Each mode has different requirements.
-See the related tab for eac rsync mode.
+See the related tab for each rsync mode.
 
 {{< tabs "Rsync Modes" >}}
 {{< tab "Module" >}}
